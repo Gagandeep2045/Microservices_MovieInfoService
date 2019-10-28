@@ -21,3 +21,5 @@ by mentioing server.port=8761 in eureka-server spring boot application.
 12. We can give name to unique identify our eureka client by specifying name
 spring.application.name in application.properties file. This name is then considered/displayed
 by eureka-server on UI etc.
+
+Thereafter read 13 from readMeGagan in movie-catalogue
